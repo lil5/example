@@ -37,7 +37,7 @@ The following steps allow you to run the project:
 - Edit `config.yml` with your desired settings.
 - Run `go generate` to generate the react frontend.
 - Run `go build ./cmd/server`.
-- Run the `./build` binary.
+- Run the `./server` binary.
 - Configure a HTTPS proxy to answer requests on your desired domain.
 - Visit the domain.
 
